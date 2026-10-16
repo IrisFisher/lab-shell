@@ -1,0 +1,8 @@
+flag location: 
+    messy-repo/docs/archive/fieldnotes.txt:3:FLAG{aut0mate_the_b0ring_stuff}
+lines top lvl python files:
+      17
+unifished markers:
+       7
+top lvl python files:
+       3
