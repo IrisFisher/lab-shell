@@ -1,5 +1,5 @@
 flag location: 
-    messy-repo/docs/archive/fieldnotes.txt:3:FLAG{aut0mate_the_b0ring_stuff}
+    messy-repo/docs/archive/fieldnotes.txt:3
 lines top lvl python files:
       17
 unifished markers:
